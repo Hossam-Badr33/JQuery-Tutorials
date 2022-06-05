@@ -1,0 +1,27 @@
+button {
+  width: 90px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 5px;
+}
+div,
+p {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  background-color: #02b;
+  color: rgb(118, 128, 173);
+  margin: 5px auto;
+}
+span {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgb(26, 96, 52);
+  color: rgb(118, 128, 173);
+  opacity: 0.4;
+}
+div {
+  display: none;
+}

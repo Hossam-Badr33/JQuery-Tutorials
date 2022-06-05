@@ -1,0 +1,13 @@
+div {
+  background-color: brown;
+  height: 3em;
+  width: 400px;
+  text-align: center;
+  line-height: 3em;
+  color: #1b3;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  position: relative;
+}
