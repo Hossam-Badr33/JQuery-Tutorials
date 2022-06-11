@@ -1,0 +1,28 @@
+html {
+    transition: all 1s ease-in-out;
+}
+h1,
+h3,
+h4,
+p,
+aside {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 3em;
+  letter-spacing: 2px;
+}
+aside {
+    display: none 
+}
+p:first-of-type {
+  width: 400px;
+  background-color: black;
+  color: rgb(133, 124, 113);
+}
+button {
+  padding: 15px;
+  font-size: 20px;
+}
+p, h4 {
+    /* display: none */
+}

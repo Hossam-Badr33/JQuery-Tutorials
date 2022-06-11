@@ -1,0 +1,13 @@
+.first,
+.second {
+  background-color: black;
+  color: rgb(194, 194, 240);
+  padding: 7px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+  margin: 10px;
+}
+.second {
+  background-color: blueviolet;
+}
