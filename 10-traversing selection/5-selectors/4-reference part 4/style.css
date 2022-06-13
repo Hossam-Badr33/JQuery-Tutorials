@@ -12,7 +12,7 @@ aside {
   letter-spacing: 2px;
 }
 aside {
-    display: none 
+    /* display: none  */
 }
 p:first-of-type {
   width: 400px;
