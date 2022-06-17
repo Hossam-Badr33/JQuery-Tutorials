@@ -1,0 +1,6 @@
+.focus {
+  display: inline-block;
+  background-color: #882;
+  padding: 10px;
+  color: rgb(210, 210, 224);
+}

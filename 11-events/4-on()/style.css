@@ -1,0 +1,7 @@
+body {
+  transition: all 1s ease-in-out;
+}
+.design {
+  color: crimson;
+  text-align: center;
+}
