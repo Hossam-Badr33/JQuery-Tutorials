@@ -1,0 +1,17 @@
+div {
+  position: absolute;
+  background-color: blue;
+  width: 200px;
+}
+p {
+  background-color: brown;
+  color: aquamarine;
+  text-align: center;
+  padding: 20px;
+  border: 3px solid;
+  width: 50px;
+  position: absolute;
+  top: 30px;
+  left: 10px;
+  /* margin-top: 50px; */
+}
